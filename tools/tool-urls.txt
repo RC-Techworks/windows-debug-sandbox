@@ -1,0 +1,8 @@
+# Analysis tool download URLs
+# These are downloaded automatically by setup-analysis-tools.ps1
+
+Sysinternals Suite: https://download.sysinternals.com/files/SysinternalsSuite.zip
+HashMyFiles: https://www.nirsoft.net/utils/hashmyfiles-x64.zip
+PE-bear: https://github.com/hasherezade/pe-bear/releases
+pestudio: https://www.winitor.com/download
+VirusTotal Uploader: https://support.virustotal.com/hc/en-us/articles/115002179065-Desktop-apps
