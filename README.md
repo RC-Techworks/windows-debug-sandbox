@@ -60,3 +60,5 @@ The setup script downloads these free tools:
 ## License
 
 MIT - Do whatever you want with it.
+---
+Used by [rain-city.tech](https://rain-city.tech)
