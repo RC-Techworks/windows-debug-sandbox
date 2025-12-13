@@ -1,16 +1,6 @@
-# AI assistant files - not for public repo
-CLAUDE.md
-AGENTS.md
-GEMINI.md
 
 # System files
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
